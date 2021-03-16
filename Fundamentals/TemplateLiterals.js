@@ -1,0 +1,1 @@
+const sayHello = (name = "Human") => `Hello ${name}`;
