@@ -12,3 +12,5 @@
 - Collections Link
 - /collections Route
 - On TV Show, show seasons and creators
+# Reference
+- nomadcoders - [멤버십] 초보를 위한 React JS
