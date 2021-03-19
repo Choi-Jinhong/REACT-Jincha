@@ -15,9 +15,10 @@
 - [x] Upcoming (Movie)
 - [x] Top Rated (TV, Movie)
 - [x] Popular (TV, Movie)
+- [x] Search(Movie, TV)
 - [x] Airing Today (TV)
-- [ ] TV Show Detail
-- [ ] Movie Detail
+- [x] TV Show Detail
+- [x] Movie Detail
 
 # Code Challenges
 
