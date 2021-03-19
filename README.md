@@ -11,11 +11,13 @@
 
 # API Verbs
 
-- [ ] Now Playing (Movie)
-- [ ] Upcoming (Movie)
-- [ ] Top Rated (TV, Movie)
-- [ ] Popular (TV, Movie)
-- [ ] Airing Today (TV)
+- [x] Now Playing (Movie)
+- [x] Upcoming (Movie)
+- [x] Top Rated (TV, Movie)
+- [x] Popular (TV, Movie)
+- [x] Airing Today (TV)
+- [ ] TV Show Detail
+- [ ] Movie Detail
 
 # Code Challenges
 
