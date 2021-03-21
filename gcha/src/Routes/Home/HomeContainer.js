@@ -5,7 +5,7 @@ import { moviesApi } from "api";
 export default class extends React.Component {
     state = {
         nowPlaying: null,
-        upcomming: null,
+        upcoming: null,
         popular: null,
         error: null,
         loading: true
@@ -33,11 +33,11 @@ export default class extends React.Component {
     }
 
     render() {
-        const { nowPlaying, upcomming, popular, error, loading } = this.state;
+        const { nowPlaying, upcoming, popular, error, loading } = this.state;
         return (
             <HomePresenter
                 nowPlaying={nowPlaying}
-                upcomming={upcomming}
+                upcoming={upcoming}
                 popular={popular}
                 error={error}
                 loading={loading}
