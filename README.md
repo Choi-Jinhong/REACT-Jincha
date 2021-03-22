@@ -22,11 +22,11 @@
 
 # Code Challenges
 
-- IMDB Link
-- Tabs inside of Moive / Show Details(YT Viedos, Production Company & Countries)
-- Collections Link
-- /collections Route
-- On TV Show, show seasons and creators
+- [ ] IMDB Link
+- [ ] Tabs inside of Moive / Show Details(YT Viedos, Production Company & Countries)
+- [ ] Collections Link
+- [ ] /collections Route
+- [ ] On TV Show, show seasons and creators
 
 # Reference
 
