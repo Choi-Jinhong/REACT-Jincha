@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Helmet from "react-helmet";
 import styled from "styled-components";
 import Loader from "Components/Loader";
 import Section from "Components/Section";
@@ -22,6 +23,7 @@ const Input = styled.input`
 
 const SearchPresenter = ({ movieResults, showResults, searchTerm, error, loading, handleSubmit, updateTerm }) => (
     <Container>
+        <Helmet><title>Search | Gcha</title></Helmet>
         <Form onSubmit={handleSubmit}>
             <Input placeholder="Search Moives or TV Shows..." value={searchTerm} onChange={updateTerm}></Input>
         </Form>
